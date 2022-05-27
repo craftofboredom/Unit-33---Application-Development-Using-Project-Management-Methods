@@ -1,0 +1,131 @@
+﻿
+body {
+    background-color: black;
+    color: lightgray;
+    font-family: Calibri;
+    font-size: 16px;
+}
+
+.wrapper {
+    width: 1080px
+}
+
+.header {
+    width: 100%;
+    background-color: darkolivegreen;
+    color: white
+}
+
+.nav {
+    background-color: black;
+    width: 220px;
+    float: left;
+    height: 800px;
+}
+
+.innerNav {
+    float: left;
+    justify-content: center
+}
+
+.tableNav, tr, td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: top;
+}
+
+.mainContent {
+    width: 830px;
+    float: left
+}
+
+.innerContent {
+    width: 830px;
+    padding: 30px 30px 10px 30px;
+    background-color: black;
+    text-align: justify;
+}
+
+h1 {
+    font-family: Amatic;
+    text-align: left;
+    font-size: 45px;
+}
+
+h2 {
+    font-family: Amatic;
+    text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    font-family: Amatic;
+    text-align: left;
+    font-size: 30px;
+}
+
+h4 {
+    font-family: Amatic;
+    text-align: left;
+    font-size: 25px;
+}
+
+.border {
+    border-style: solid;
+    padding: 6px;
+    text-align: left
+}
+
+.footer {
+    background-color: black;
+    width: 1080px;
+    height: 50px;
+    float: left;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.myButton {
+    height: 26px;
+    width: 120px;
+    text-align: center;
+    background-color: black;
+    border-radius: 100px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    cursor: pointer;
+    color: #777777;
+    font-family: Amatic;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px 40px;
+    text-decoration: none;
+}
+
+    .myButton:hover {
+        background-color: #dfdfdf;
+        color: black;
+    }
+

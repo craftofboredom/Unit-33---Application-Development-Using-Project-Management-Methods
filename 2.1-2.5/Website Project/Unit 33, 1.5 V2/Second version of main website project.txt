@@ -1,0 +1,4 @@
+This is the second version of our main website.
+The agreement was that I will complete the HTML part whilst Dan completes the CSS part.
+To start this off, I've created the HTML and agreed to forward this to Dan so he can apply his version of CSS style sheets.
+I already had my version of external stylesheets, but I told Dan to amend it he wishes to so he can apply his creativity to the website.

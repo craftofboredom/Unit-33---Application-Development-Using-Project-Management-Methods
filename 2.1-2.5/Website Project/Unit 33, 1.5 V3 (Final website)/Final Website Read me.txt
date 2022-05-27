@@ -1,0 +1,4 @@
+This is the Final version of the website
+Dan has now made CSS alterations into the website.
+Some other members of the team who haven't submitted their website on time or were late which made it difficult to fully finalise the website.
+These outstanding tasks will be planned in the next sprint, if it were to take place. 

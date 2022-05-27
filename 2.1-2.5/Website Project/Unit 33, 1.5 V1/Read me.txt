@@ -1,0 +1,2 @@
+This is the first version of our website which I created.
+I've also tried to incorporate everyone's website within the main website if possible.

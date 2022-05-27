@@ -1,0 +1,4 @@
+Manual Testing Read me
+
+Manual testing spreadsheet created by me.
+Each person was responsible for testing their own webpage within the website.
